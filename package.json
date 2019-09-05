@@ -1,0 +1,15 @@
+{
+  "name": "velvet-more",
+  "version": "1.0.0",
+  "description": "Velvet Document",
+  "main": "index.js",
+  "scripts": {
+    "dev-docs": "vuepress dev src",
+    "build-docs": "vuepress build src"
+  },
+  "author": "Bao Tran",
+  "license": "MIT",
+  "dependencies": {
+    "vuepress": "^1.0.3"
+  }
+}
