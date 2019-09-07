@@ -1,6 +1,6 @@
 {
-  "name": "velvet-more",
-  "version": "1.0.0",
+  "name": "velvet-docs",
+  "version": "0.0.1",
   "description": "Velvet Document",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,12 @@
   },
   "author": "Bao Tran",
   "license": "MIT",
-  "dependencies": {
-    "vuepress": "^1.0.3"
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/username/repository.git"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "vuepress": "^1.0.4"
   }
 }

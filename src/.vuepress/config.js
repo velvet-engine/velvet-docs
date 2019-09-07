@@ -1,7 +1,7 @@
 module.exports = {
-  dest: 'velvet-engine.github.io',
+  dest: 'dist',
   title: 'Velvet',
-  description: 'Velvet Template Engine',
+  description: 'The Elegant Frontend-oriented PHP Template Engine',
   // head: [
   //   ['link', { rel: 'icon', href: `/logo.png` }],
   //   ['link', { rel: 'manifest', href: '/manifest.json' }],
@@ -23,7 +23,6 @@ module.exports = {
     editLinks: true,
     docsDir: 'src',
     sidebar: {
-      // '/docs/': getSidebar()
       '/docs/': [
         {
           title: 'Document',

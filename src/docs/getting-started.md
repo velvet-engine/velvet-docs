@@ -2,9 +2,9 @@
 
 ## Requirements
 
-__To use Velvet, you need:__
-
-* PHP ≥ 7.2
+::: warning COMPATIBILITY NOTE
+To use Velvet, you need PHP ≥ 7.2
+:::
 
 Although using Vue's syntax, Velvet does not require any Javascript runtime on server (i.e. Node)
 
@@ -38,7 +38,7 @@ __If you use composer__
 
 ```php
 <?php
-require 'vendor/autoload.php'
+require 'vendor/autoload.php';
 
 use Velvet\Velvet;
 ```
