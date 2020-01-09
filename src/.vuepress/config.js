@@ -32,7 +32,21 @@ module.exports = {
             'before-you-start',
             'introduction',
             'getting-started',
+            'advanced-topics'
             //     '/reasons-of-choice',
+            //     '/in-depth',
+            //     '/velvet-loader,
+            //     '/extensions'
+          ]
+        }
+      ],
+      '/contributor-guide/': [
+        {
+          title: 'Contributor Guide',
+          collapsable: false,
+          children: [
+            '',
+            'reasons-of-choice',
             //     '/in-depth',
             //     '/velvet-loader,
             //     '/extensions'

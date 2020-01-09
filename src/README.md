@@ -13,14 +13,14 @@ footer: MIT Licensed | Copyright © 2019 Bao Tran
 <div class="features">
   <div class="feature">
     <h2>Frontend-oriented</h2>
-    <p>Make your frontend dev happy. No more "Either go decouple or mixing backend and frontend systax in templates".</p>
+    <p>Make your frontend devs happy. No more "Either go decouple or mixing backend and frontend syntax in templates".</p>
   </div>
   <div class="feature">
-    <h2>Vue-Powered</h2>
-    <p>The clean syntax of Vue's Single File Component.</p>
+    <h2>Easy integration</h2>
+    <p>Designed to be easy to adapt. No dependency, to avoid conflicts with any framework you want to use it on.</p>
   </div>
   <div class="feature">
     <h2>Secure</h2>
-    <p>Auto-sanitized, enforce safe usage. Seemless data passing between PHP backend and Vue frontend.</p>
+    <p>Auto-sanitized input/output, enforce safe usage. Seemless data passing between PHP backend and Vue frontend.</p>
   </div>
 </div>

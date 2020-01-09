@@ -61,5 +61,6 @@ typings/
 .next
 
 # User-defined
+.docs-git/
 dist/
 velvet-engine.github.io/

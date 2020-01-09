@@ -14,7 +14,9 @@ Velvet also has zero dependency, so rest assure from conflicts with other packag
 
 ## Some note
 
+::: warning
 __Velvet only support **evergreen** browser__
+:::
 
 The reason is the lack of transpiler (e.g. babel). So we only serve ES6+ modules to client.
 
